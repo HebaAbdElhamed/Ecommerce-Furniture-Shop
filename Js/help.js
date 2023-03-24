@@ -1,3 +1,5 @@
+// <!-- This code developed by HebaAbdElhamed -->
+// <!-- For more codes visit : https://github.com/HebaAbdElhamed -->
 function question(x){
     var y= document.getElementsByClassName("hidden");
     for(var i=0;i<y.length;i++){
